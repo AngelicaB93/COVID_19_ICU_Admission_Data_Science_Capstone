@@ -2,7 +2,7 @@
 
 **Author:** Angelica Butler
 
-**Intructor:** James Meredith
+**Instructor:** James Meredith
 
 **Institution:** UTA QuickStart Bootcamp March 2024 Cohort
 
